@@ -3,7 +3,7 @@
 }
 
 .sec1{
-    background-image: url(img.jpg);
+    background-image: url(./Imagess/img.jpg);
     background-size: cover;
     height: 120vh;   
 }
@@ -155,7 +155,7 @@ input[type='text']{
     color: azure;
 }
 .sec7{
-    background-image: url(maxr.jpg);
+    background-image: url(./Imagess/maxr.jpg);
     height: 120vh;
 
 }
